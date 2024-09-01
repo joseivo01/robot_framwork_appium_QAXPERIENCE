@@ -1,0 +1,19 @@
+# Ignorar arquivos de logs
+logs/
+*.log
+*.html
+*.xml
+
+# Ignorar dependências do Node.js
+node_modules/
+package-lock.json
+
+# Ignorar arquivos APK ou outros binários gerados
+*.apk
+
+# Ignorar arquivos temporários de sistema operacional
+.DS_Store
+Thumbs.db
+
+# Ignorar configurações específicas do VSCode
+.vscode/
