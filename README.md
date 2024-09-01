@@ -10,6 +10,12 @@ Este repositório contém o progresso do uso da biblioteca Appium no Robot Frame
 - **tests/**: Scripts de teste automatizados usando Robot Framework.
 - **node_modules/**: Dependências do projeto (não versionadas).
 
+## Aplicativo
+
+Você pode baixar o aplicativo necessário para os testes através do link abaixo:
+
+[Download do Aplicativo](https://drive.google.com/file/d/1aPJJhU2RRBLx6fU90f2e_s_ejIyLgkQe/view?usp=sharing)
+
 ## Como Executar os Testes
 
 1. Instale as dependências do projeto:
